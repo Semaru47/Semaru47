@@ -14,5 +14,4 @@ I like breaking down how digital systems work, planning feature structures, and 
 ## What I Share Here
 This profile is used to document ideas, structures, and project concepts related to automation, bot systems, and workflow planning.
 
-## Location
-Istanbul, Türkiye
+
