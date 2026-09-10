@@ -16,14 +16,14 @@ Istanbul · Full-stack builder · Web · Discord bots · Self-hosted tools
 ---
 
 I design, ship, and **operate** production systems under one brand: **DeadCommunity**.  
-Each product below has its own public GitHub showcase (README + live link). **Source code stays private.**
+Each product below has its own public GitHub showcase (detailed README + live link). **Source code stays private.**
 
 ---
 
 ## Platforms
 
-| Product | Live | Showcase repo |
-|---------|------|----------------|
+| Product | Live | Showcase |
+|---------|------|----------|
 | DeadCommunity Web | [deadcommunity.com](https://deadcommunity.com) | [deadcommunity-web](https://github.com/Semaru47/deadcommunity-web) |
 | DeadForum | [forum.deadcommunity.com](https://forum.deadcommunity.com) | [deadcommunity-forum](https://github.com/Semaru47/deadcommunity-forum) |
 | Portfolio — Malik | [malik.deadcommunity.com](https://malik.deadcommunity.com) | [deadcommunity-portfolio-malik](https://github.com/Semaru47/deadcommunity-portfolio-malik) |
@@ -31,17 +31,17 @@ Each product below has its own public GitHub showcase (README + live link). **So
 
 ## Discord ecosystem
 
-| Product | Live / panel | Showcase repo |
-|---------|--------------|----------------|
+| Product | Live / panel | Showcase |
+|---------|--------------|----------|
 | Dead Anime | [anime.deadcommunity.com](https://anime.deadcommunity.com) | [deadcommunity-anime](https://github.com/Semaru47/deadcommunity-anime) |
 | Dead Music | [music.deadcommunity.com](https://music.deadcommunity.com) | [deadcommunity-music](https://github.com/Semaru47/deadcommunity-music) |
 | Dead Bot (Boss) | [boss.deadcommunity.com](https://boss.deadcommunity.com) | [deadcommunity-boss](https://github.com/Semaru47/deadcommunity-boss) |
-| Dead İndirim | Discord bot (live) | [deadcommunity-indirim](https://github.com/Semaru47/deadcommunity-indirim) |
+| Dead Indirim | Discord bot (live) | [deadcommunity-indirim](https://github.com/Semaru47/deadcommunity-indirim) |
 
 ## Tool suite
 
-| Product | Live | Showcase repo |
-|---------|------|----------------|
+| Product | Live | Showcase |
+|---------|------|----------|
 | DeadPDF | [pdf.deadcommunity.com](https://pdf.deadcommunity.com) | [deadcommunity-pdf](https://github.com/Semaru47/deadcommunity-pdf) |
 | DeadVideo | [video.deadcommunity.com](https://video.deadcommunity.com) | [deadcommunity-video](https://github.com/Semaru47/deadcommunity-video) |
 | DeadSound | [sound.deadcommunity.com](https://sound.deadcommunity.com) | [deadcommunity-sound](https://github.com/Semaru47/deadcommunity-sound) |
@@ -55,8 +55,8 @@ Each product below has its own public GitHub showcase (README + live link). **So
 
 ## Infra & extras
 
-| Product | Notes | Showcase repo |
-|---------|-------|----------------|
+| Product | Notes | Showcase |
+|---------|-------|----------|
 | Contact stack | Matrix · Element · LiveKit · Coturn | [deadcommunity-contact](https://github.com/Semaru47/deadcommunity-contact) |
 | DeadCoDrive | Self-hosted drive | [deadcommunity-drive](https://github.com/Semaru47/deadcommunity-drive) |
 | Dead Hub | Tools hub / menu | [deadcommunity-hub](https://github.com/Semaru47/deadcommunity-hub) |
@@ -71,7 +71,7 @@ Each product below has its own public GitHub showcase (README + live link). **So
 
 ## How this profile works
 
-- **Public repos** = product cards (what it is + live URL)  
+- **Public repos** = detailed product cards (what it is + live URL + stack)  
 - **Private** = real source & secrets  
 - Everything listed here was running on our server when the showcase was published  
 
