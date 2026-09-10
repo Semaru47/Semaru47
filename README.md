@@ -4,25 +4,23 @@
 
 <br/>
 
-<img src="./assets/logo.gif" alt="DeadCommunity logo" width="96" />
+<img src="./assets/logo.gif" alt="DeadCommunity" width="88" />
 
 # Semaru
 
-**DeadCommunity** · Istanbul
+`DEADCOMMUNITY` · Istanbul
 
-<a href="https://deadcommunity.com"><img src="https://img.shields.io/badge/deadcommunity.com-4f3cc9?style=flat-square&labelColor=09090b&color=4f3cc9" alt="Website" /></a>
-<a href="https://github.com/Semaru47/deadcommunity-showcase"><img src="https://img.shields.io/badge/product_index-01c7c3?style=flat-square&labelColor=09090b&color=01c7c3" alt="Index" /></a>
-<a href="https://twitter.com/Semaru47"><img src="https://img.shields.io/badge/@Semaru47-7d04e4?style=flat-square&labelColor=09090b&color=7d04e4" alt="X" /></a>
-
-<img src="./assets/rule.svg" alt="" width="280" />
+<a href="https://deadcommunity.com"><img src="https://img.shields.io/badge/deadcommunity.com-fafafa?style=flat-square&labelColor=09090b&color=fafafa" alt="Website" /></a>
+<a href="https://github.com/Semaru47/deadcommunity-showcase"><img src="https://img.shields.io/badge/product_index-a1a1aa?style=flat-square&labelColor=09090b&color=a1a1aa" alt="Index" /></a>
+<a href="https://twitter.com/Semaru47"><img src="https://img.shields.io/badge/@Semaru47-71717a?style=flat-square&labelColor=09090b&color=71717a" alt="X" /></a>
 
 </div>
 
 <br/>
 
-I build and operate the **DeadCommunity** stack — same brand you see on [deadcommunity.com](https://deadcommunity.com): violet brand accent, aqua secondary, dark UI, live hostnames.
+Built like the homepage: **black base (`#09090b`)**, white type, muted zinc labels, white **D** mark.
 
-Not concept notes. **Production systems** with public URLs, Docker deploys, and uptime.
+I ship and operate DeadCommunity — web, Discord bots, self-hosted tools — with public hostnames. Source stays private; these repos are product cards.
 
 <img src="./assets/rule.svg" alt="" width="100%" />
 
@@ -30,17 +28,14 @@ Not concept notes. **Production systems** with public URLs, Docker deploys, and 
 
 | | |
 |--|--|
+| **Look** | Same as [deadcommunity.com](https://deadcommunity.com) — dark UI, mono labels, tight type |
+| **Logo** | Official white-on-black DeadCommunity mark |
 | **Role** | Full-stack builder / operator |
-| **Brand** | [DeadCommunity](https://deadcommunity.com) |
-| **Focus** | Web platforms, Discord bots, self-hosted tools |
-| **Public GitHub** | Product cards only — source stays private |
-| **Design system** | Site tokens: brand `#4f3cc9` · violet `#7d04e4` · aqua `#01c7c3` · base `#09090b` |
+| **Public GitHub** | Live links + English write-ups — no source dump |
 
 <img src="./assets/rule.svg" alt="" width="100%" />
 
 ## Platforms
-
-Same surfaces as the main site navigation.
 
 | Product | Live | Showcase |
 |---------|------|----------|
@@ -60,7 +55,7 @@ Same surfaces as the main site navigation.
 
 ## Tools
 
-Matches the tool explorer on the homepage.
+Homepage tool shelf — same names.
 
 | Product | Live | Showcase |
 |---------|------|----------|
@@ -78,48 +73,39 @@ Matches the tool explorer on the homepage.
 
 | Product | Showcase |
 |---------|----------|
-| Contact stack (Matrix / Element / LiveKit) | [deadcommunity-contact](https://github.com/Semaru47/deadcommunity-contact) |
+| Contact (Matrix / Element / LiveKit) | [deadcommunity-contact](https://github.com/Semaru47/deadcommunity-contact) |
 | DeadCoDrive | [deadcommunity-drive](https://github.com/Semaru47/deadcommunity-drive) |
 | Dead Hub | [deadcommunity-hub](https://github.com/Semaru47/deadcommunity-hub) |
 | Bounty | [deadcommunity-bounty](https://github.com/Semaru47/deadcommunity-bounty) |
-| Game servers | [deadcommunity-games](https://github.com/Semaru47/deadcommunity-games) |
-| Full index | [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase) |
+| Games | [deadcommunity-games](https://github.com/Semaru47/deadcommunity-games) |
+| Index | [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase) |
 
 <img src="./assets/rule.svg" alt="" width="100%" />
 
-## How it ships
+## Ship loop
 
 ```text
-idea  →  UI / API  →  Docker on our host  →  Cloudflare Tunnel hostname  →  keep it up
+idea  →  UI / API  →  Docker  →  tunnel hostname  →  keep it up
 ```
-
-Public repos are **English product cards** (what it is, live URL, stack).  
-Private repos hold the real source. Same rule as production: no secrets on the public shelf.
 
 ## Stack
 
-Aligned with what runs behind deadcommunity.com:
-
-`Next.js` · `TypeScript` · `Django` · `Node` · `Python` · `PostgreSQL` · `Redis` · `Docker` · `Nginx` · `Cloudflare` · `Discord API` · `Matrix` · `Ollama`
+`Next.js` · `TypeScript` · `Django` · `Node` · `Python` · `PostgreSQL` · `Redis` · `Docker` · `Nginx` · `Cloudflare` · `Discord` · `Matrix`
 
 ---
 
 <div align="center">
 
-<img src="./assets/logo.png" alt="DeadCommunity" width="56" />
+<img src="./assets/logo.png" alt="DeadCommunity" width="48" />
 
 <br/><br/>
 
-**Same logo. Same brand. Live systems.**
+**Black UI. White mark. Live systems.**
 
 <br/>
 
-<a href="https://deadcommunity.com"><img src="https://img.shields.io/badge/Open_deadcommunity.com-4f3cc9?style=flat-square&labelColor=09090b&color=01c7c3" alt="Open site" /></a>
+<a href="https://deadcommunity.com"><img src="https://img.shields.io/badge/Open_deadcommunity.com-fafafa?style=flat-square&labelColor=09090b&color=fafafa" alt="Open" /></a>
 &nbsp;
-<a href="https://github.com/Semaru47?tab=repositories&q=deadcommunity-"><img src="https://img.shields.io/badge/Browse_showcases-7d04e4?style=flat-square&labelColor=09090b&color=7d04e4" alt="Showcases" /></a>
-
-<br/><br/>
-
-<sub>Brand assets from deadcommunity.com · Operator: Semaru</sub>
+<a href="https://github.com/Semaru47?tab=repositories&q=deadcommunity-"><img src="https://img.shields.io/badge/Browse_showcases-a1a1aa?style=flat-square&labelColor=09090b&color=a1a1aa" alt="Showcases" /></a>
 
 </div>
