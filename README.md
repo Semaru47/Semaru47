@@ -1,86 +1,206 @@
 <div align="center">
 
+<img src="./assets/banner.svg" alt="DeadCommunity banner" width="100%" />
+
+<br/>
+
+<img src="./assets/deadcommunity-mark-color.svg" alt="DeadCommunity logo" width="120" />
+
 # Semaru
 
-### DeadCommunity — live products, not demos
+### Builder behind [DeadCommunity](https://deadcommunity.com)
 
-Istanbul · Full-stack builder · Web · Discord bots · Self-hosted tools
+Istanbul-based full-stack operator. I do not stop at mockups — I ship **live hostnames**, keep containers healthy, and iterate on real users.
 
-[deadcommunity.com](https://deadcommunity.com) · [@Semaru47](https://twitter.com/Semaru47) · [Product index](https://github.com/Semaru47/deadcommunity-showcase)
+<a href="https://deadcommunity.com">
+  <img src="https://img.shields.io/badge/Live_site-deadcommunity.com-8b7cff?style=for-the-badge&labelColor=0b1020&color=8b7cff" alt="Live site" />
+</a>
+<a href="https://github.com/Semaru47/deadcommunity-showcase">
+  <img src="https://img.shields.io/badge/Product_index-22+_showcases-5eead4?style=for-the-badge&labelColor=0b1020&color=5eead4" alt="Showcases" />
+</a>
+<a href="https://twitter.com/Semaru47">
+  <img src="https://img.shields.io/badge/X-@Semaru47-38bdf8?style=for-the-badge&labelColor=0b1020&color=38bdf8" alt="X" />
+</a>
 
-<img alt="followers" src="https://img.shields.io/github/followers/Semaru47?style=for-the-badge&label=Follow&labelColor=0d1117&color=238636" />
-<img alt="public repos" src="https://img.shields.io/badge/public_showcases-22+-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
+<img src="./assets/accent-strip.svg" alt="" width="420" />
 
 </div>
 
 ---
 
-I design, ship, and **operate** production systems under one brand: **DeadCommunity**.  
-Each product below has its own public GitHub showcase (detailed README + live link). **Source code stays private.**
+## Why this profile looks like a product shelf
 
----
+Most GitHub profiles list unfinished ideas. Mine lists **systems that answer on a public URL today**.
 
-## Platforms
+Each `deadcommunity-*` repository is a **product card** (role, live link, stack overview).  
+Source code and secrets stay private — the public side is proof of shipping, not a code dump.
 
-| Product | Live | Showcase |
-|---------|------|----------|
-| DeadCommunity Web | [deadcommunity.com](https://deadcommunity.com) | [deadcommunity-web](https://github.com/Semaru47/deadcommunity-web) |
-| DeadForum | [forum.deadcommunity.com](https://forum.deadcommunity.com) | [deadcommunity-forum](https://github.com/Semaru47/deadcommunity-forum) |
-| Portfolio — Malik | [malik.deadcommunity.com](https://malik.deadcommunity.com) | [deadcommunity-portfolio-malik](https://github.com/Semaru47/deadcommunity-portfolio-malik) |
-| Portfolio — Utku | [utku.deadcommunity.com](https://utku.deadcommunity.com) | [deadcommunity-portfolio-utku](https://github.com/Semaru47/deadcommunity-portfolio-utku) |
+| You want… | Go here |
+|-----------|---------|
+| Brand + CMS site | [deadcommunity.com](https://deadcommunity.com) |
+| Everything indexed | [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase) |
+| Founder portfolios | [malik](https://malik.deadcommunity.com) · [utku](https://utku.deadcommunity.com) |
 
-## Discord ecosystem
+<img src="./assets/accent-strip.svg" alt="" width="100%" />
 
-| Product | Live / panel | Showcase |
-|---------|--------------|----------|
-| Dead Anime | [anime.deadcommunity.com](https://anime.deadcommunity.com) | [deadcommunity-anime](https://github.com/Semaru47/deadcommunity-anime) |
-| Dead Music | [music.deadcommunity.com](https://music.deadcommunity.com) | [deadcommunity-music](https://github.com/Semaru47/deadcommunity-music) |
-| Dead Bot (Boss) | [boss.deadcommunity.com](https://boss.deadcommunity.com) | [deadcommunity-boss](https://github.com/Semaru47/deadcommunity-boss) |
-| Dead Indirim | Discord bot (live) | [deadcommunity-indirim](https://github.com/Semaru47/deadcommunity-indirim) |
+## What I actually run
 
-## Tool suite
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Product | Live | Showcase |
-|---------|------|----------|
-| DeadPDF | [pdf.deadcommunity.com](https://pdf.deadcommunity.com) | [deadcommunity-pdf](https://github.com/Semaru47/deadcommunity-pdf) |
-| DeadVideo | [video.deadcommunity.com](https://video.deadcommunity.com) | [deadcommunity-video](https://github.com/Semaru47/deadcommunity-video) |
-| DeadSound | [sound.deadcommunity.com](https://sound.deadcommunity.com) | [deadcommunity-sound](https://github.com/Semaru47/deadcommunity-sound) |
-| DeadImage | [image.deadcommunity.com](https://image.deadcommunity.com) | [deadcommunity-image](https://github.com/Semaru47/deadcommunity-image) |
-| DeadQR | [qr.deadcommunity.com](https://qr.deadcommunity.com) | [deadcommunity-qr](https://github.com/Semaru47/deadcommunity-qr) |
-| DeadColor | [color.deadcommunity.com](https://color.deadcommunity.com) | [deadcommunity-color](https://github.com/Semaru47/deadcommunity-color) |
-| DeadDiff | [diff.deadcommunity.com](https://diff.deadcommunity.com) | [deadcommunity-diff](https://github.com/Semaru47/deadcommunity-diff) |
-| DeadPaste | [paste.deadcommunity.com](https://paste.deadcommunity.com) | [deadcommunity-paste](https://github.com/Semaru47/deadcommunity-paste) |
-| DeadSummarize | [summarize.deadcommunity.com](https://summarize.deadcommunity.com) | [deadcommunity-summarize](https://github.com/Semaru47/deadcommunity-summarize) |
-| Dead Bounty | Server-active | [deadcommunity-bounty](https://github.com/Semaru47/deadcommunity-bounty) |
+### Platforms
+Color: violet lane
 
-## Infra & extras
+| | |
+|--|--|
+| **Web** | Next.js + Django CMS brand site |
+| **Forum** | Community forum on its own hostname |
+| **Portfolios** | Founder sites for Malik & Utku |
 
-| Product | Notes | Showcase |
-|---------|-------|----------|
-| Contact stack | Matrix · Element · LiveKit · Coturn | [deadcommunity-contact](https://github.com/Semaru47/deadcommunity-contact) |
-| DeadCoDrive | Self-hosted drive | [deadcommunity-drive](https://github.com/Semaru47/deadcommunity-drive) |
-| Dead Hub | Tools hub / menu | [deadcommunity-hub](https://github.com/Semaru47/deadcommunity-hub) |
-| Game servers | Minecraft · Palworld | [deadcommunity-games](https://github.com/Semaru47/deadcommunity-games) |
-| **Full index** | All products in one place | [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase) |
+Repos: [web](https://github.com/Semaru47/deadcommunity-web) · [forum](https://github.com/Semaru47/deadcommunity-forum)
 
----
+</td>
+<td width="50%" valign="top">
 
-## Daily stack
+### Discord fleet
+Color: teal lane
 
-`Next.js` · `TypeScript` · `Django` · `Node` · `Python` · `PostgreSQL` · `Redis` · `Docker` · `Nginx` · `Cloudflare` · `Discord API` · `Matrix` · `Ollama`
+| | |
+|--|--|
+| **Anime** | Bot + web hub |
+| **Music** | Bot + dashboard |
+| **Boss** | Community ops bot + panel |
+| **Indirim** | Deals / discount bot |
 
-## How this profile works
+Repos: [anime](https://github.com/Semaru47/deadcommunity-anime) · [music](https://github.com/Semaru47/deadcommunity-music) · [boss](https://github.com/Semaru47/deadcommunity-boss)
 
-- **Public repos** = detailed product cards (what it is + live URL + stack)  
-- **Private** = real source & secrets  
-- Everything listed here was running on our server when the showcase was published  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Tool suite
+Color: sky lane
+
+PDF · Video · Sound · Image · QR · Color · Diff · Paste · Summarize · Bounty
+
+Open any `deadcommunity-pdf` style repo for the full English card + live URL.
+
+</td>
+<td width="50%" valign="top">
+
+### Own the infra
+Color: mint lane
+
+Matrix / Element / LiveKit · Drive · Hub · Minecraft & Palworld · Cloudflare Tunnel edge
+
+Repos: [contact](https://github.com/Semaru47/deadcommunity-contact) · [games](https://github.com/Semaru47/deadcommunity-games)
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/accent-strip.svg" alt="" width="100%" />
+
+## How a DeadCommunity product is born
+
+```text
+  idea  ──►  UI / API  ──►  Docker on our host  ──►  Tunnel hostname  ──►  keep it up
+```
+
+1. **Shape the product** — who uses it, what “done” means on a phone and a desktop.  
+2. **Build the stack** — web UI, bots, databases, reverse proxy as needed.  
+3. **Ship on metal we control** — containers, health checks, backups where it matters.  
+4. **Publish a public card** — English README + live link, without leaking source.
+
+That loop is why the logo sits on this profile: the network mark is not decoration — it is the map of services talking to each other under one brand.
+
+<img src="./assets/accent-strip.svg" alt="" width="100%" />
+
+## Daily toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Matrix-0DBD8B?style=for-the-badge&logo=element&logoColor=white" alt="Matrix" />
+</p>
+
+<img src="./assets/accent-strip.svg" alt="" width="100%" />
+
+## Featured live lanes
+
+| Lane | Color cue | Jump in |
+|------|-----------|---------|
+| Brand | Violet | [deadcommunity.com](https://deadcommunity.com) |
+| Forum | Indigo | [forum.deadcommunity.com](https://forum.deadcommunity.com) |
+| Anime | Teal | [anime.deadcommunity.com](https://anime.deadcommunity.com) |
+| Music | Cyan | [music.deadcommunity.com](https://music.deadcommunity.com) |
+| PDF tools | Sky | [pdf.deadcommunity.com](https://pdf.deadcommunity.com) |
+| Portfolios | Mint | [malik](https://malik.deadcommunity.com) · [utku](https://utku.deadcommunity.com) |
+
+<details>
+<summary><strong>All public showcase repositories</strong></summary>
+
+<br/>
+
+[web](https://github.com/Semaru47/deadcommunity-web) ·
+[forum](https://github.com/Semaru47/deadcommunity-forum) ·
+[pdf](https://github.com/Semaru47/deadcommunity-pdf) ·
+[video](https://github.com/Semaru47/deadcommunity-video) ·
+[sound](https://github.com/Semaru47/deadcommunity-sound) ·
+[image](https://github.com/Semaru47/deadcommunity-image) ·
+[qr](https://github.com/Semaru47/deadcommunity-qr) ·
+[color](https://github.com/Semaru47/deadcommunity-color) ·
+[diff](https://github.com/Semaru47/deadcommunity-diff) ·
+[paste](https://github.com/Semaru47/deadcommunity-paste) ·
+[summarize](https://github.com/Semaru47/deadcommunity-summarize) ·
+[anime](https://github.com/Semaru47/deadcommunity-anime) ·
+[music](https://github.com/Semaru47/deadcommunity-music) ·
+[boss](https://github.com/Semaru47/deadcommunity-boss) ·
+[indirim](https://github.com/Semaru47/deadcommunity-indirim) ·
+[bounty](https://github.com/Semaru47/deadcommunity-bounty) ·
+[drive](https://github.com/Semaru47/deadcommunity-drive) ·
+[hub](https://github.com/Semaru47/deadcommunity-hub) ·
+[contact](https://github.com/Semaru47/deadcommunity-contact) ·
+[games](https://github.com/Semaru47/deadcommunity-games) ·
+[portfolio-malik](https://github.com/Semaru47/deadcommunity-portfolio-malik) ·
+[portfolio-utku](https://github.com/Semaru47/deadcommunity-portfolio-utku) ·
+[showcase index](https://github.com/Semaru47/deadcommunity-showcase)
+
+</details>
 
 ---
 
 <div align="center">
 
-**Build → deploy → keep it up.**
+<img src="./assets/deadcommunity-mark.png" alt="DeadCommunity mark" width="72" />
 
-[Open the live site](https://deadcommunity.com) · [Browse all showcases](https://github.com/Semaru47?tab=repositories&q=deadcommunity-)
+<br/><br/>
+
+**Build it. Put a hostname on it. Keep it alive.**
+
+<br/>
+
+<a href="https://deadcommunity.com">
+  <img src="https://img.shields.io/badge/Open_DeadCommunity-8b7cff?style=for-the-badge&labelColor=0b1020&color=5eead4" alt="Open DeadCommunity" />
+</a>
+&nbsp;
+<a href="https://github.com/Semaru47?tab=repositories&q=deadcommunity-">
+  <img src="https://img.shields.io/badge/Browse_showcases-38bdf8?style=for-the-badge&labelColor=0b1020&color=38bdf8" alt="Browse showcases" />
+</a>
+
+<br/><br/>
+
+<sub>Logo & brand: DeadCommunity · Profile operator: Semaru · Istanbul</sub>
 
 </div>
