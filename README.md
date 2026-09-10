@@ -17,7 +17,9 @@
   </p>
 </div>
 
----
+<p align="center">
+  <img src="./assets/dashed-bar.svg" alt="" width="100%" />
+</p>
 
 ### Summary
 
@@ -25,7 +27,7 @@ I design, ship, and run **DeadCommunity** — a self-hosted ecosystem of web app
 
 Public repositories here are **product cards** (purpose, live URL, stack). Production source and secrets stay private. If a hostname is listed, it was running when published.
 
-<img src="./assets/rule.svg" alt="" width="100%" />
+<img src="./assets/dashed-bar.svg" alt="" width="100%" />
 
 ### Selected work
 
@@ -40,7 +42,7 @@ Six surfaces that best represent the system. Each links to a detailed English sh
 | **Dead Boss** | Community ops bot + admin panel | [boss…](https://boss.deadcommunity.com) | [repo](https://github.com/Semaru47/deadcommunity-boss) |
 | **deadPDF** | Browser PDF utility suite | [pdf…](https://pdf.deadcommunity.com) | [repo](https://github.com/Semaru47/deadcommunity-pdf) |
 
-<img src="./assets/rule.svg" alt="" width="100%" />
+<img src="./assets/dashed-bar.svg" alt="" width="100%" />
 
 ### Product lines
 
@@ -55,7 +57,7 @@ Six surfaces that best represent the system. Each links to a detailed English sh
 
 **Index** — [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase)
 
-<img src="./assets/rule.svg" alt="" width="100%" />
+<img src="./assets/dashed-bar.svg" alt="" width="100%" />
 
 ### Operating model
 
@@ -70,13 +72,15 @@ scope  →  build  →  containerize  →  publish hostname  →  observe & iter
 | Separate surfaces | Public cards ≠ private source |
 | Match the brand | Black UI, white mark, mono labels — same as the site |
 
-<img src="./assets/rule.svg" alt="" width="100%" />
+<img src="./assets/dashed-bar.svg" alt="" width="100%" />
 
 ### Stack
 
 `Next.js` · `TypeScript` · `Django` · `Node` · `Python` · `PostgreSQL` · `Redis` · `Docker` · `Nginx` · `Cloudflare Tunnel` · `Discord API` · `Matrix` · `Ollama`
 
----
+<p align="center">
+  <img src="./assets/dashed-bar.svg" alt="" width="100%" />
+</p>
 
 <div align="center">
   <img src="./assets/logo.png" alt="DeadCommunity" width="40" />
