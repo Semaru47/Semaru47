@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Semaru · DeadCommunity" width="100%" />
+  <img src="./assets/banner.png?v=3" alt="Semaru · DeadCommunity" width="100%" />
   <br/><br/>
   <img src="./assets/logo.gif" alt="DeadCommunity" width="72" />
   <h1>Semaru</h1>
@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/dashed-bar.svg" alt="" width="100%" />
+  <img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 </p>
 
 ### Summary
@@ -27,7 +27,7 @@ I design, ship, and run **DeadCommunity** — a self-hosted ecosystem of web app
 
 Public repositories here are **product cards** (purpose, live URL, stack). Production source and secrets stay private. If a hostname is listed, it was running when published.
 
-<img src="./assets/dashed-bar.svg" alt="" width="100%" />
+<img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 
 ### Selected work
 
@@ -42,7 +42,7 @@ Six surfaces that best represent the system. Each links to a detailed English sh
 | **Dead Boss** | Community ops bot + admin panel | [boss…](https://boss.deadcommunity.com) | [repo](https://github.com/Semaru47/deadcommunity-boss) |
 | **deadPDF** | Browser PDF utility suite | [pdf…](https://pdf.deadcommunity.com) | [repo](https://github.com/Semaru47/deadcommunity-pdf) |
 
-<img src="./assets/dashed-bar.svg" alt="" width="100%" />
+<img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 
 ### Product lines
 
@@ -57,7 +57,7 @@ Six surfaces that best represent the system. Each links to a detailed English sh
 
 **Index** — [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase)
 
-<img src="./assets/dashed-bar.svg" alt="" width="100%" />
+<img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 
 ### Operating model
 
@@ -72,14 +72,14 @@ scope  →  build  →  containerize  →  publish hostname  →  observe & iter
 | Separate surfaces | Public cards ≠ private source |
 | Match the brand | Black UI, white mark, mono labels — same as the site |
 
-<img src="./assets/dashed-bar.svg" alt="" width="100%" />
+<img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 
 ### Stack
 
 `Next.js` · `TypeScript` · `Django` · `Node` · `Python` · `PostgreSQL` · `Redis` · `Docker` · `Nginx` · `Cloudflare Tunnel` · `Discord API` · `Matrix` · `Ollama`
 
 <p align="center">
-  <img src="./assets/dashed-bar.svg" alt="" width="100%" />
+  <img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 </p>
 
 <div align="center">
