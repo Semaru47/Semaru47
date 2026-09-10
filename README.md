@@ -21,20 +21,24 @@
   <img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 </p>
 
-### Summary
+### ◆ Summary
 
-I design, ship, and run **DeadCommunity** — a self-hosted ecosystem of web apps, Discord bots, and infrastructure under one black-UI brand ([deadcommunity.com](https://deadcommunity.com)).
+I design, ship, and run **DeadCommunity** — a self-hosted ecosystem of web apps, Discord bots, and infrastructure under one black-UI brand.
 
-Public repositories here are **product cards** (purpose, live URL, stack). Production source and secrets stay private. If a hostname is listed, it was running when published.
+▸ Public repos = **product cards** (purpose · live URL · stack)  
+▸ Production source & secrets stay **private**  
+▸ If a hostname is listed, it was **online** when published  
+
+↳ [deadcommunity.com](https://deadcommunity.com)
 
 <img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 
-### Selected work
+### ◆ Selected work
 
-Six surfaces that best represent the system. Each links to a detailed English showcase.
+Six surfaces that define the system. Each row → detailed English showcase.
 
-| Product | What it is | Live | Card |
-|:--------|:-----------|:-----|:-----|
+| ▣ Product | ○ What it is | → Live | ▸ Card |
+|:----------|:-------------|:-------|:-------|
 | **DeadCommunity Web** | Brand site + CMS platform | [deadcommunity.com](https://deadcommunity.com) | [repo](https://github.com/Semaru47/deadcommunity-web) |
 | **DeadForum** | Community forum | [forum…](https://forum.deadcommunity.com) | [repo](https://github.com/Semaru47/deadcommunity-forum) |
 | **Dead Anime** | Anime Discord bot + web hub | [anime…](https://anime.deadcommunity.com) | [repo](https://github.com/Semaru47/deadcommunity-anime) |
@@ -44,37 +48,43 @@ Six surfaces that best represent the system. Each links to a detailed English sh
 
 <img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 
-### Product lines
+### ◆ Product lines
 
-**Tool shelf** — same set as the homepage explorer  
-[deadPDF](https://github.com/Semaru47/deadcommunity-pdf) · [deadVideo](https://github.com/Semaru47/deadcommunity-video) · [deadSound](https://github.com/Semaru47/deadcommunity-sound) · [deadImage](https://github.com/Semaru47/deadcommunity-image) · [deadQR](https://github.com/Semaru47/deadcommunity-qr) · [deadColor](https://github.com/Semaru47/deadcommunity-color) · [deadDiff](https://github.com/Semaru47/deadcommunity-diff) · [deadPaste](https://github.com/Semaru47/deadcommunity-paste) · [deadSummarize](https://github.com/Semaru47/deadcommunity-summarize)
+**▣ Tool shelf** — homepage explorer set  
 
-**Founders**  
-[Portfolio — Malik](https://github.com/Semaru47/deadcommunity-portfolio-malik) ([live](https://malik.deadcommunity.com)) · [Portfolio — Utku](https://github.com/Semaru47/deadcommunity-portfolio-utku) ([live](https://utku.deadcommunity.com))
+↳ [deadPDF](https://github.com/Semaru47/deadcommunity-pdf) · [deadVideo](https://github.com/Semaru47/deadcommunity-video) · [deadSound](https://github.com/Semaru47/deadcommunity-sound) · [deadImage](https://github.com/Semaru47/deadcommunity-image) · [deadQR](https://github.com/Semaru47/deadcommunity-qr) · [deadColor](https://github.com/Semaru47/deadcommunity-color) · [deadDiff](https://github.com/Semaru47/deadcommunity-diff) · [deadPaste](https://github.com/Semaru47/deadcommunity-paste) · [deadSummarize](https://github.com/Semaru47/deadcommunity-summarize)
 
-**Infrastructure**  
-[Contact / Matrix](https://github.com/Semaru47/deadcommunity-contact) · [Drive](https://github.com/Semaru47/deadcommunity-drive) · [Hub](https://github.com/Semaru47/deadcommunity-hub) · [Bounty](https://github.com/Semaru47/deadcommunity-bounty) · [Games](https://github.com/Semaru47/deadcommunity-games) · [Indirim bot](https://github.com/Semaru47/deadcommunity-indirim)
+**▣ Founders**  
 
-**Index** — [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase)
+↳ [Portfolio — Malik](https://github.com/Semaru47/deadcommunity-portfolio-malik) → [live](https://malik.deadcommunity.com)  
+↳ [Portfolio — Utku](https://github.com/Semaru47/deadcommunity-portfolio-utku) → [live](https://utku.deadcommunity.com)
+
+**▣ Infrastructure**  
+
+↳ [Contact / Matrix](https://github.com/Semaru47/deadcommunity-contact) · [Drive](https://github.com/Semaru47/deadcommunity-drive) · [Hub](https://github.com/Semaru47/deadcommunity-hub) · [Bounty](https://github.com/Semaru47/deadcommunity-bounty) · [Games](https://github.com/Semaru47/deadcommunity-games) · [Indirim](https://github.com/Semaru47/deadcommunity-indirim)
+
+**▣ Index**  
+
+↳ [deadcommunity-showcase](https://github.com/Semaru47/deadcommunity-showcase)
 
 <img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 
-### Operating model
+### ◆ Operating model
 
 ```text
-scope  →  build  →  containerize  →  publish hostname  →  observe & iterate
+■ scope  →  ■ build  →  ■ containerize  →  ■ publish hostname  →  ■ observe & iterate
 ```
 
-| Principle | Practice |
-|:----------|:---------|
-| Own the path | UI, API, data, deploy, and uptime on one team |
-| Prefer live proof | Public URL over slide decks |
-| Separate surfaces | Public cards ≠ private source |
-| Match the brand | Black UI, white mark, mono labels — same as the site |
+| ▸ Principle | ○ Practice |
+|:------------|:-----------|
+| ◆ Own the path | UI · API · data · deploy · uptime — one chain |
+| ◆ Prefer live proof | Public URL over decks |
+| ◆ Separate surfaces | Public cards ≠ private source |
+| ◆ Match the brand | Black UI · white mark · mono labels |
 
 <img src="./assets/dashed-bar.png?v=3" alt="" width="100%" />
 
-### Stack
+### ◆ Stack
 
 `Next.js` · `TypeScript` · `Django` · `Node` · `Python` · `PostgreSQL` · `Redis` · `Docker` · `Nginx` · `Cloudflare Tunnel` · `Discord API` · `Matrix` · `Ollama`
 
@@ -85,10 +95,10 @@ scope  →  build  →  containerize  →  publish hostname  →  observe & iter
 <div align="center">
   <img src="./assets/logo.png" alt="DeadCommunity" width="40" />
   <br/><br/>
-  <p><strong>Build it. Host it. Keep it black and online.</strong></p>
+  <p><strong>▸ Build it &nbsp;·&nbsp; ▸ Host it &nbsp;·&nbsp; ▸ Keep it black and online</strong></p>
   <p>
     <a href="https://deadcommunity.com"><img src="https://img.shields.io/badge/Open_site-fafafa?style=flat-square&labelColor=09090b&color=fafafa" alt="Open site" /></a>
     <a href="https://github.com/Semaru47/deadcommunity-showcase"><img src="https://img.shields.io/badge/Full_catalog-a1a1aa?style=flat-square&labelColor=09090b&color=a1a1aa" alt="Catalog" /></a>
   </p>
-  <sub>Brand: DeadCommunity · Profile: Semaru</sub>
+  <sub>◆ Brand: DeadCommunity &nbsp;·&nbsp; ◆ Profile: Semaru</sub>
 </div>
